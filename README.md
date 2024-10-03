@@ -1,6 +1,8 @@
 # hsstan
 Biomarker discovery using Bayesian models implemented in Stan Use hsstan With (In) R Software
 
+https://www.youtube.com/watch?v=KO2aLTuwzTI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
